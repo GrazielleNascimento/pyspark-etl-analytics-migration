@@ -18,9 +18,12 @@ Este projeto implementa uma solução completa para migração e análise de dad
 ### 📥 Tarefa 1: Importação de Dados Legados
 **Objetivo:** Migrar dados históricos de planilhas Excel para DynamoDB
 
+![alt text](image-1.png)
+
 ### 📊 Tarefa 2: Análise de Tarefas Abandonadas  
 **Objetivo:** Identificar e categorizar tarefas abandonadas para análise gerencial
 
+![alt text](image.png)
 ---
 
 ## 📥 TAREFA 1: Leitura e Importação de Dados
