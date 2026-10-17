@@ -1,4 +1,7 @@
-# 📊 Projeto: Análise de Tarefas Abandonadas com PySpark
+  <div align="center">
+    <h1>📊 Projeto: Análise de Tarefas Abandonadas com PySpark</h1>
+    <img width="298" height="487" alt="image" src="https://github.com/user-attachments/assets/0d10631e-86b6-462c-9a2c-1df79059fb29" />
+  </div>
 
 ## 🎯 Objetivo do Projeto
 
